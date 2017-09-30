@@ -1,4 +1,5 @@
-# Node.js Bot Platform
+# Node.js Distribution of moeBot-client and moeBot-server
+## Forked from evilai/nodejs-bot-platform
 
 This is a Node.js platform for bots (boilerplate and start point). Implemented on top of Express, which is used only for routing, so it's easily can be changed. Platform in this case is a boilerplate, set of tools, architecture and best practices for bot building.
 
